@@ -36,7 +36,7 @@ export default function ContactPage() {
             }`}
           >
             <p className="text-xl md:text-2xl text-lime-50 leading-relaxed">
-              We'd love to hear from you! Drop us a message below.
+              We love to hear from you! Drop us a message below.
             </p>
 
             <div className="space-y-4">
